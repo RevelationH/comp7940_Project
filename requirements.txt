@@ -1,6 +1,0 @@
-telegram
-telebot
-python-telegram-bot==13.7
-firebase
-firebase_admin
-openai
